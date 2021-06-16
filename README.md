@@ -1,1 +1,1 @@
-# kalkulator.sh
+# readme
